@@ -1,10 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/ksharm0/Documents/Repo/Android-ViewPager-Carousel-UI/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml",
+            "outputFile": "/Users/kouroshmousavi/Projects/Android/Android-ViewPager-Carousel-UI/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml",
             "map": [
                 {
-                    "source": "/Users/ksharm0/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/ed2a44f80567a29a9662eec297760e53/res/values-large-v4/values-large-v4.xml",
+                    "source": "/Users/kouroshmousavi/.gradle/caches/transforms-2/files-2.1/61233dc118e5f83f20cf353695d49a03/res/values-large-v4/values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,177",
+                        "endColumns": "121,133",
+                        "endOffsets": "172,306"
+                    },
+                    "to": {
+                        "startLines": "11,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "752,874",
+                        "endColumns": "121,133",
+                        "endOffsets": "869,1003"
+                    }
+                },
+                {
+                    "source": "/Users/kouroshmousavi/.gradle/caches/transforms-2/files-2.1/dc2c67186dd4eb6009da1042ca1918d7/res/values-large-v4/values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",

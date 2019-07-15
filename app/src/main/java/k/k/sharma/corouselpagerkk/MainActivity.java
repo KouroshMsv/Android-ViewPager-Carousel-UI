@@ -5,8 +5,9 @@ package k.k.sharma.corouselpagerkk;
  * 
  **/
 import android.os.Bundle;
-import android.support.v4.app.FragmentActivity;
 import android.view.View;
+
+import androidx.fragment.app.FragmentActivity;
 
 public class MainActivity extends FragmentActivity {
     private KKViewPager mPager;

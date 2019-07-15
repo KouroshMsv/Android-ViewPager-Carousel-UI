@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/ksharm0/Documents/Repo/Android-ViewPager-Carousel-UI/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "outputFile": "/Users/kouroshmousavi/Projects/Android/Android-ViewPager-Carousel-UI/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "/Users/ksharm0/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.0.aar/50b58a46e1df7d96bd8044ff86209239/res/values-v23/values-v23.xml",
+                    "source": "/Users/kouroshmousavi/.gradle/caches/transforms-2/files-2.1/0e42cd4f79b4dde70a8a57d94687c0ea/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/ksharm0/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/ed2a44f80567a29a9662eec297760e53/res/values-v23/values-v23.xml",
+                    "source": "/Users/kouroshmousavi/.gradle/caches/transforms-2/files-2.1/dc2c67186dd4eb6009da1042ca1918d7/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",

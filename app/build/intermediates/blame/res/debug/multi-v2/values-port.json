@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/ksharm0/Documents/Repo/Android-ViewPager-Carousel-UI/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "outputFile": "/Users/kouroshmousavi/Projects/Android/Android-ViewPager-Carousel-UI/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
             "map": [
                 {
-                    "source": "/Users/ksharm0/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/ed2a44f80567a29a9662eec297760e53/res/values-port/values-port.xml",
+                    "source": "/Users/kouroshmousavi/.gradle/caches/transforms-2/files-2.1/dc2c67186dd4eb6009da1042ca1918d7/res/values-port/values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

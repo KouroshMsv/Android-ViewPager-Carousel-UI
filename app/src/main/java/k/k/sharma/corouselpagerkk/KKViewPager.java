@@ -7,10 +7,11 @@ package k.k.sharma.corouselpagerkk;
 
 import android.content.Context;
 import android.content.res.Resources;
-import android.support.v4.view.ViewPager;
 import android.util.AttributeSet;
 import android.util.TypedValue;
 import android.view.View;
+
+import androidx.viewpager.widget.ViewPager;
 
 public class KKViewPager extends ViewPager implements ViewPager.PageTransformer {
     public static final String TAG = "KKViewPager";
